@@ -1,2 +1,2 @@
 # projects
-just a beginner
+Just a beginner
